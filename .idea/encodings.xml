@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/component/aside.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/award_com.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/banner_com.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/component.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/component1.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/index-header.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/mark.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/punish_com.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/component/title.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+  </component>
+</project>
